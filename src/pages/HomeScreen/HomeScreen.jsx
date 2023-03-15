@@ -1,4 +1,4 @@
-import {Banner, Navbar, Row} from '../'
+import {Banner, Navbar, Row} from '../../components'
 import './HomeScreen.css'
 import requests from '../../Requests'
 

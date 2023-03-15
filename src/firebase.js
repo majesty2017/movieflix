@@ -1,3 +1,5 @@
+import firebase from 'firebase'
+
 const firebaseConfig = {
   apiKey: process.env.REACT_API_KEY,
   authDomain: "supreme-movieflix.firebaseapp.com",
