@@ -1,0 +1,6 @@
+export {default as Logo} from './logo.png'
+export {default as DarkLogo} from './dark-logo.png'
+export {default as TransparentLogo} from './transparent-logo.png'
+export {default as Avatar} from './avatar.png'
+export {default as NetflixAvatar} from './netflix-avatar.png'
+export {default as BannerImg} from './banner.jpg'
