@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import { BannerImg } from '../../images'
 import './Banner.css'
 
 import axios from '../../axios'

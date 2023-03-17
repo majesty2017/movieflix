@@ -5,6 +5,7 @@ import { SignupScreen} from '../'
 
 const Login = () => {
     const [signIn, setSignIn] = useState(false)
+
   return (
     <div className='loginScreen'>
         <div className="loginScreen__background">
@@ -16,7 +17,7 @@ const Login = () => {
         <div className="loginScreen__body">
             {signIn ? (
                 <SignupScreen />
-            ) :  (
+            ) : (
                 <>
                 <h1>Unlimited films, TV Programmes and More</h1>
                 <h2>Watch anywhere. Cancel at any time.</h2>
